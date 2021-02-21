@@ -36,7 +36,7 @@ h2 {
 }
  
 div {
-    background-color: grey;
+    background-color: rgb(46, 46, 46);
     width: 400px;
     height: 500px;
     margin: 20px;
